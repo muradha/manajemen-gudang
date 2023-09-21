@@ -11,7 +11,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Free Bootstrap Admin Template : Binary Admin</title>
+    <title>Binary Admin</title>
     <!-- BOOTSTRAP STYLES-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONTAWESOME STYLES-->
@@ -36,7 +36,7 @@
                 </button>
                 <a class="navbar-brand" href="index.html">Binary admin</a>
             </div>
-            <div style="color: white; padding: 15px 50px 5px 50px; float: right;font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>
+            <div style="color: white; padding: 15px 50px 5px 50px; float: right;font-size: 16px;"> &nbsp; <a href="login.html" class="btn btn-danger square-btn-adjust">Logout</a> </div>
         </nav>
         <!-- /. NAV TOP  -->
         <nav class="navbar-default navbar-side" role="navigation">
@@ -64,9 +64,6 @@
                                 <a href="index.php?halaman=transaksikeluar">Transaksi Keluar</a>
                             </li>
                         </ul>
-                    </li>
-                    <li>
-                        <a href="blank.html"><i class="fa fa-square-o fa-3x"></i> Blank Page</a>
                     </li>
                 </ul>
 
